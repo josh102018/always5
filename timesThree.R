@@ -1,0 +1,5 @@
+# Creating a function
+timesThree <- function(number) {
+  output <- number * 3
+  cat("The answer is:", as.character(output), "\n")}
+  
